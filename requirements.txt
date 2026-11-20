@@ -1,0 +1,8 @@
+# This project By Gogo & Disha ®
+# Core progress display and HTTP client.
+tqdm
+requests
+# Optional code paths: alternate HTTP client, decoding, and browser automation.
+curl-cffi
+cryptography
+playwright
